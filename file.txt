@@ -5,3 +5,6 @@ Função envia email
 	Correção na função de enviar email
 
 Nova linha
+
+Feature X
+		Detalhe
